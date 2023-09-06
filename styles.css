@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+button{
+	margin-left: 25%;
+  margin-right: 25%;
+  padding:10px;
+	width: 50%;
+	background-color:rgb(239,87,76);
+	border:none;
+	border-radius:10px;
+	cursor:pointer;
+}
+
+.img1{
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top:30px;
+  width: 50%;
+}
+
+main{
+	background-color:rgb(241,241,241);
+	height:590px;
+	width:389px;
+	padding: 10px 10px;
+	box-shadow: 0px 0px 10px 0px rgb(193,193,193);
+	
+}
+
